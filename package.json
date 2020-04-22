@@ -1,0 +1,24 @@
+{
+  "name": "discord4edu",
+  "version": "0.0.1",
+  "description": "The all-in-one education system for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattx8y/Discord4edu.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "education"
+  ],
+  "author": "Mattx8y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mattx8y/Discord4edu/issues"
+  },
+  "homepage": "https://github.com/Mattx8y/Discord4edu#readme"
+}
